@@ -1,1 +1,1 @@
-docker run -t -i varnish /bin/bash
+docker run -p 6081:6081 -t -i varnish /bin/bash
